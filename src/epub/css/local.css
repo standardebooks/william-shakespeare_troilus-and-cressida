@@ -27,8 +27,7 @@
 /* End dramatis personae */
 
 /* Play */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -67,7 +66,6 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -111,18 +109,8 @@ section[epub|type~="z3998:scene"] > p{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 p span.i1{
 	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
 	text-indent: -1em;
 }
 /* End song, verse */
