@@ -46,9 +46,12 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The title characters fall in love amid the Trojan War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Troilus and Cressida&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; problem plays defined by its duality of tone, from comedic relief to tragedy. The plot was sourced from two epic poems. &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; is the foundation for Greek mythology, the Trojan War, and the war’s key figures. Geoffrey Chaucer’s &lt;i&gt;Troilus and Criseyde&lt;/i&gt; furthers Troilus’s story from the &lt;i&gt;Iliad&lt;/i&gt; and tells how he falls in love with a Trojan woman.&lt;/p&gt;
+			&lt;p&gt;King Menelaus, the ruler of Sparta, has had his beautiful wife Helen stolen by one of the Trojan princes named Paris. The king and his Greek allies sailed to Troy and set siege to the city to rescue Helen. At the beginning of the play, seven years have passed since the start of the war. Achilles refuses to fight due to his hurt pride. One day the Trojan warrior Hector challenges the Greeks to a one-on-one fight.&lt;/p&gt;
+			&lt;p&gt;On the other side of the city walls, the Trojan Prince Troilus is madly in love with Cressida, and the heartache makes it difficult for him to fight. Pandarus, Troilus’s close friend and Cressida’s uncle, is trying to bring the couple together. Cressida’s father has plans to use her as a bargaining chip in this siege.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/troilus_cressida/full.html</dc:source>
