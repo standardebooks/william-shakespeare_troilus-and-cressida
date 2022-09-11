@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/troilus-and-cressida</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-09-11T17:32:52Z</dc:date>
+		<meta property="dcterms:modified">2022-09-11T17:32:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,19 +46,19 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">The title characters fall in love amid the Trojan War.</dc:description>
+		<dc:description id="description">A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Troilus and Cressida&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; problem plays defined by its duality of tone, from comedic relief to tragedy. The plot was sourced from two epic poems. &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; is the foundation for Greek mythology, the Trojan War, and the war’s key figures. Geoffrey Chaucer’s &lt;i&gt;Troilus and Criseyde&lt;/i&gt; furthers Troilus’s story from the &lt;i&gt;Iliad&lt;/i&gt; and tells how he falls in love with a Trojan woman.&lt;/p&gt;
-			&lt;p&gt;King Menelaus, the ruler of Sparta, has had his beautiful wife Helen stolen by one of the Trojan princes named Paris. The king and his Greek allies sailed to Troy and set siege to the city to rescue Helen. At the beginning of the play, seven years have passed since the start of the war. Achilles refuses to fight due to his hurt pride. One day the Trojan warrior Hector challenges the Greeks to a one-on-one fight.&lt;/p&gt;
-			&lt;p&gt;On the other side of the city walls, the Trojan Prince Troilus is madly in love with Cressida, and the heartache makes it difficult for him to fight. Pandarus, Troilus’s close friend and Cressida’s uncle, is trying to bring the couple together. Cressida’s father has plans to use her as a bargaining chip in this siege.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Troilus and Cressida&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; “problem plays,” characterized by its duality of tone as it jumps from bawdy comedic to dark tragedy. The plot was sourced from two epic poems: &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; is the source of the play’s Greek mythological references, the Trojan War, and the war’s key figures, while Chaucer’s &lt;i&gt;Troilus and Criseyde&lt;/i&gt; is the source of Troilus’s love affair with a Trojan woman.&lt;/p&gt;
+			&lt;p&gt;At the beginning of &lt;i&gt;Troilus and Cressida&lt;/i&gt;, seven years have passed since the start of the Trojan war. Achilles refuses to fight due to his hurt pride, but one day, the Trojan hero Hector challenges the Greeks to one-on-one combat.&lt;/p&gt;
+			&lt;p&gt;On the other side of the city walls, the Trojan Prince Troilus is madly in love with Cressida, and his heartache makes it difficult for him to fight. Pandarus, Troilus’s close friend and Cressida’s uncle, tries to bring the couple together, but Cressida’s father has plans to use her as a bargaining chip in the siege.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/troilus_cressida/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">28140</meta>
+		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Troilus_and_Cressida</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_troilus-and-cressida</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -81,6 +81,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
