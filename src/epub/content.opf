@@ -58,7 +58,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">28140</meta>
-		<meta property="se:reading-ease.flesch">73.58</meta>
+		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Troilus_and_Cressida</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_troilus-and-cressida</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
