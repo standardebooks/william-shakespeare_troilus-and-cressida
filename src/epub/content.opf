@@ -48,7 +48,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.</dc:abstract>
+		<meta property="schema:abstract">A Trojan prince falls in love with a woman amid the Trojan War, only to see her exchanged to the Greeks for a prisoner of war.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Troilus and Cressida&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; “problem plays,” characterized by its duality of tone as it jumps from bawdy comedic to dark tragedy. The plot was sourced from two epic poems: &lt;a href="https://standardebooks.org/ebooks/homer"&gt;Homer’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; is the source of the play’s Greek mythological references, the Trojan War, and the war’s key figures, while Chaucer’s &lt;i&gt;Troilus and Criseyde&lt;/i&gt; is the source of Troilus’s love affair with a Trojan woman.&lt;/p&gt;
 			&lt;p&gt;At the beginning of &lt;i&gt;Troilus and Cressida&lt;/i&gt;, seven years have passed since the start of the Trojan war. Achilles refuses to fight due to his hurt pride, but one day, the Trojan hero Hector challenges the Greeks to one-on-one combat.&lt;/p&gt;
