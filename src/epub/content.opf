@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Troilus and Cressida</dc:title>
 		<meta property="file-as" refines="#title">Troilus and Cressida</meta>
-		<dc:subject id="subject-1">Trojan War -- Drama</dc:subject>
+		<dc:subject id="subject-1">Trojan War--Drama</dc:subject>
 		<dc:subject id="subject-2">Tragicomedy</dc:subject>
-		<dc:subject id="subject-3">Troilus (Legendary character) -- Drama</dc:subject>
-		<dc:subject id="subject-4">Cressida (Fictitious character) -- Drama</dc:subject>
-		<dc:subject id="subject-5">Troy (Extinct city) -- Drama</dc:subject>
+		<dc:subject id="subject-3">Troilus (Legendary character)--Drama</dc:subject>
+		<dc:subject id="subject-4">Cressida (Fictitious character)--Drama</dc:subject>
+		<dc:subject id="subject-5">Troy (Extinct city)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113019</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
